@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows_KMS_Activator.exe.config
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows_KMS_Activator.exe
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows_KMS_Activator.pdb
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows_KMS_Activator.exe
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows_KMS_Activator.pdb
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows_KMS_Activator.exe.manifest
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Windows_KMS_Activator.application
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows_KMS_Activator.TrustInfo.xml
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows_KMS_Activator.exe.manifest
+C:\Users\USER\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Windows_KMS_Activator.application
